@@ -1,6 +1,5 @@
-We got different accuracy for identical onnx models. Models have identical graph and 
-parameters. Nodes of both models topological sorted but order of nodes in files is 
-different.
+We got different accuracy for identical onnx models. Models have identical graphs and parameters. 
+Nodes of both models are topologically sorted but order of nodes in files is different.
 
 Steps to reproduce bag:
 1. Download [models and weights](https://as5304t-4989.ezconnect.to/portal/apis/fileExplorer/share_link.cgi?link=-XWUDZrJG6F1wvmnaZ8rcQ) (~23GB) to onnx_models dir.
