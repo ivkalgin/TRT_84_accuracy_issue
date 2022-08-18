@@ -26,4 +26,4 @@ Result with TRT 8.4.1.5 + RTX3080ti:
 
 Expected result:
 
-Accuracy of model_1 should be equal accuracy of model_1.
+Accuracy of model_1 should be equal accuracy of model_2.
